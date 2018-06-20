@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2956-openc
 x-kinRank: "9"
 x-alexaRank: "1026215"
 tags: OpenCage
-created: "2018-06-19"
-modified: "2018-06-19"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/opencage/master/_listings/opencage/apis.md
 specificationVersion: "0.14"
 apis:

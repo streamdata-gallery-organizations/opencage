@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - OpenCage",
+	"description": "This is a repository of opencage APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/opencage.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://opencage.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "OpenCage",
+			"x-api-slug": "opencage",
+			"description": "An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable, predictable pricing. Open data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2956-opencage.jpg",
+			"humanURL": "http://opencagedata.com",
+			"baseURL": "https://api.opencagedata.com/v1/",
+			"tags": "OpenCage",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/opencage/master/_listings/opencage/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "OpenCage",
+	"include": [
+		{
+			"name": "OpenCage",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/opencage/master/_listings/opencage/apis.yaml"
+		}
+	]
+}
